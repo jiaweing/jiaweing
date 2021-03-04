@@ -2,7 +2,11 @@
 
 ## Hello World 👋🏻
 <p align="left"> 
-  I spend a lot of time writing code.
+  I spend a lot of time writing code. I started writing scripts and bots since I was 13. I have been providing and managing Team Fortress 2 servers for the past 7 years. I have 3 years of experience writing full-stack web apps in .NET Core, PHP, JS, Microsoft SQL, MySQL, MongoDB and Cassandra, and 5 years of experience writing SourcePawn plugins.
+  
+  I have other experience writing on other frameworks and languages such as Python, NodeJS, ElectronJS, React, Solidity, Xamarin Forms, Swift, and Java.
+  
+  I had done Smart Contract Development on Ethereum, Git, Unit Testing with Mocha and MSTest Frameworks, CI/CD with GitHub Actions, Design Prototyping with Adobe XD, Video Production with Sony Vegas Pro and After Effects, Photography with Adobe Photoshop and Lightroom.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=my3t&color=blueviolet" alt="caue-alves" /> </p>
 
