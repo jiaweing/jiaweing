@@ -2,7 +2,7 @@
 
 ## Hello World 👋🏻
 <p align="left"> 
-  I spend a lot of time writing code. I started writing scripts and bots since I was 13. I have been providing and managing Team Fortress 2 servers for the past 7 years. I have 3 years of experience writing full-stack web apps in .NET Core, PHP, JS, Microsoft SQL, MySQL, MongoDB and Cassandra, and 5 years of experience writing SourcePawn plugins.
+  I love writing code. I started writing scripts and bots since I was 13. I have been providing and managing Team Fortress 2 servers for the past 8 years. I have 3 years of experience writing full-stack web apps in .NET Core, PHP, JS, Microsoft SQL, MySQL, MongoDB and Cassandra, and 5 years of experience writing SourcePawn plugins.
   
   I have other experience writing on other frameworks and languages such as Python, NodeJS, ElectronJS, React, Solidity, Xamarin Forms, Swift, and Java.
   
