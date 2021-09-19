@@ -10,5 +10,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=my3t&color=blueviolet" alt="caue-alves" /> </p>
 
+![ezgif-7-4047863f9793](https://user-images.githubusercontent.com/33184869/133915416-fa2fad6c-3ae8-45c2-988c-71c20574bf9f.gif)
+
 ### GitHub
 [![my3t's github stats](https://github-readme-stats.vercel.app/api?username=my3t)](https://github.com/anuraghazra/github-readme-stats)
