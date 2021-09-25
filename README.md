@@ -1,6 +1,6 @@
 <img src="https://wakatime.com/share/@myst/72945211-85c9-4ef5-80af-f698d619db61.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
-## Hello World 👋🏻
+## Hello World 👋🏻 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/my3t/my-stack)
 <p align="left"> 
   I love writing code. I started writing scripts and bots since I was 13. I have been providing and managing Team Fortress 2 servers for the past 8 years. I have 3 years of experience writing full-stack web apps in .NET Core, PHP, JS, Microsoft SQL, MySQL, MongoDB and Cassandra, and 5 years of experience writing SourcePawn plugins.
   
