@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=myst&layout=compact&hide_title=true&theme=github_dark" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=myst&layout=compact&hide_title=true&theme=github_dark" min-width="400px" max-width="400px" width="400px" align="right" alt="Recent Activity">
 
 ## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/my3t/my-stack)
 <p align="left"> 
@@ -10,9 +10,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=my3t&color=blueviolet" alt="caue-alves" /> </p>
 
-![ezgif-7-4047863f9793](https://user-images.githubusercontent.com/33184869/133915416-fa2fad6c-3ae8-45c2-988c-71c20574bf9f.gif)
+<img src="https://user-images.githubusercontent.com/33184869/133915416-fa2fad6c-3ae8-45c2-988c-71c20574bf9f.gif" width="1000px" alt="Image">
 
 ### GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=my3t&theme=github_dark" align="left" alt="Image">
+<img src="https://github-readme-stats.vercel.app/api?username=my3t&theme=github_dark" align="left" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my3t&theme=github_dark" align="right" alt="Image">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my3t&theme=github_dark" align="right" alt="Top Languages">
