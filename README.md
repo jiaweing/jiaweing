@@ -11,6 +11,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=my3t&color=blueviolet" alt="caue-alves" /> </p>
 
 <img src="https://user-images.githubusercontent.com/33184869/133915416-fa2fad6c-3ae8-45c2-988c-71c20574bf9f.gif" width="1000px" alt="Image">
+<sub>
+<p align="center">Art by Sarah</p>
+</sub>
+
 
 ### GitHub
 <img src="https://github-readme-stats.vercel.app/api?username=my3t&theme=github_dark" align="left" alt="GitHub Stats">
