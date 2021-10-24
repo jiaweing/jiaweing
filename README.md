@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=myst&layout=compact&hide_title=true&theme=react" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=myst&layout=compact&hide_title=true&theme=github_dark" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 ## Hello World 👋🏻 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/my3t/my-stack)
 <p align="left"> 
@@ -13,4 +13,6 @@
 ![ezgif-7-4047863f9793](https://user-images.githubusercontent.com/33184869/133915416-fa2fad6c-3ae8-45c2-988c-71c20574bf9f.gif)
 
 ### GitHub
-[![my3t's github stats](https://github-readme-stats.vercel.app/api?username=my3t&title_color=FFFFFF&text_color=FFFFFF&bg_color=FEAC5E,C779D0,4BC0C8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=my3t&theme=github_dark" align="left" alt="Image">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my3t&theme=github_dark" align="right" alt="Image">
