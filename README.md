@@ -1,6 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=myst&layout=compact&hide_title=true&theme=github_dark" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
-## Hello World 👋🏻 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/my3t/my-stack)
+## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+🏻 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/my3t/my-stack)
 <p align="left"> 
   I love writing code. I started writing scripts and bots since I was 13. I have been providing and managing Team Fortress 2 servers for the past 8 years. I have 3 years of experience writing full-stack web apps in .NET Core, PHP, JS, Microsoft SQL, MySQL, MongoDB and Cassandra, and 5 years of experience writing SourcePawn plugins.
   
