@@ -17,6 +17,6 @@
 
 
 ### GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=my3t&theme=github_dark" align="left" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=my3t&theme=github_dark" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my3t&theme=github_dark" align="right" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my3t&theme=github_dark" alt="Top Languages">
