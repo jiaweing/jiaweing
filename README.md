@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=myst&layout=compact&hide_title=true&theme=github_dark" min-width="400px" max-width="400px" width="400px" align="right" alt="Recent Activity">
 
-## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/my3t/my-stack)
+## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/my3t/my-stack)
 <p align="left"> 
 With vast experience in software development, a highly driven individual who enjoys writing code. I am a software engineer with eight years of self-taught programming experience.
 
