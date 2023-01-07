@@ -50,6 +50,7 @@ I am known as the founder of titan.tf.
 
 <p align="center">
 	<a target="_blank" href="https://discordapp.com/users/136168174516174848"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"></img></a>
+	<a target="_blank" href="https://steamcommunity.com/profiles/76561198088419275"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=Steam&logoColor=white"></img></a>
 </p>
 
 <p align="center">
