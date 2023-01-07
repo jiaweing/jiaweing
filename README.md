@@ -1,26 +1,57 @@
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=myst&layout=compact&hide_title=true&theme=github_dark" min-width="400px" max-width="400px" width="400px" align="right" alt="Recent Activity">
+<!-- Intro  -->
+<h1 align="center"><b>Hi , I'm myst</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/my3t/my-stack)
-<p align="left"> 
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30F7FF&center=true&vCenter=true&width=435&lines=I'm+a+22+yo.+software+engineer;from+SG%2C+Singapore%F0%9F%91%8B%F0%9F%8F%BB;Self-taught+programmer" alt="Typing SVG" /></a>
+</p>
+
+<!-- Badges -->
+<p align="center">
+	<a href="https://stackshare.io/my3t/my-stack"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Tech Stack"></a>
+	<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=my3t&color=blueviolet" alt="Profile Views" /></a>
+</p>
+
+<!-- Description -->
 A highly driven individual who enjoys writing code, with vast experience in software development.
 
-As a software engineer with eight years of self-taught programming experience, I have a strong passion for using code to improve and automate real-world problems. My fascination with software development began at the age of 13 when I wrote my first video game scripts and saw the lines of code transform into my desired output. I believe that programming has the power to positively impact people's lives on a global scale.
+As a software engineer with eight years of self-taught programming experience, I have a strong passion for using code to improve and automate real-world problems. I believe that programming has the power to positively impact people's lives on a global scale.
 
-I have gained valuable experience through internships, including my first internship where I developed foolproof blockchain-based systems that prevented document manipulation and fraud, as well as smart contracts that tokenized digital assets and turned them into non-fungible tokens. This successful internship led to a full-time job offer, confirming my career path in software engineering.
+I am known as the founder of titan.tf.
 
-I have a strong track record of success in the world of IT, demonstrated by my work on my own venture. Titan.tf is a global community of specialized and sophisticated Team Fortress 2 servers hosted around the world. Since its inception in 2015, I have served as the sole maintainer and developer for this community project.
-
-As a result of my efforts, I have attracted over 420k unique players and reached an all-time peak of 300 concurrent players across all servers. In my role, I manage the front and back end of day-to-day operations and develop and implement new content and feature updates. This project has been a passion project of mine, and my continued involvement with it is a testament to my dedication to the field of IT and my desire to continue learning and exploring new opportunities.
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=my3t&color=blueviolet" alt="caue-alves" /> </p>
-
+<!-- Banner -->
 <img src="https://user-images.githubusercontent.com/33184869/133915416-fa2fad6c-3ae8-45c2-988c-71c20574bf9f.gif" width="1000px" alt="Image">
 <sub>
-<p align="center">Art by Sarah</p>
+	<p align="center">Art by Sarah</p>
 </sub>
 
+<br />
 
-### GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=my3t&theme=github_dark" alt="GitHub Stats">
+<!-- GitHub Stats -->
+<h2 align="center"><b>🔥 GitHub Stats</b></h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my3t&theme=github_dark" alt="Top Languages">
+<p align="center">
+	<a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=my3t&theme=onedark" alt="Recent Activity"></a>
+</p>
+
+<p align="center">
+	<a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=myst&layout=compact&hide_title=true&theme=github_dark" alt="Recent Activity"></a>
+</p>
+
+<p align="center">
+	<a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=my3t&theme=github_dark" alt="GitHub Stats"></a>
+</p>
+
+<p align="center">
+	<a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my3t&theme=github_dark" alt="Top Languages"></a>
+</p>
+
+<!-- Socials -->
+<h2 align="center"><b>💬 Socials</b></h2>
+
+<p align="center">
+	<a target="_blank" href="https://discordapp.com/users/136168174516174848"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"></img></a>
+</p>
+
+<p align="center">
+	<a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=mysterioan&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mysterioan&cover_image=true&theme=default&show_offline=false&background_color=121212"></img></a>
+</p>
