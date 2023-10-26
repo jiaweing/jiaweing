@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.79m added, 1.34m removed
+                                    2.24m added, 297k removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    164 views in last two weeks
+                                    165 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -244,14 +244,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.74308527143694" height="8" fill="#f69e1d"/>
-                    <rect mask="url(#languages-bar)" x="252.74308527143694" y="0" width="81.44639593243984" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="334.1894812038768" y="0" width="58.20572128684478" height="8" fill="#ed5051"/>
-                    <rect mask="url(#languages-bar)" x="392.3952024907216" y="0" width="18.30747077154426" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="410.7026732622659" y="0" width="18.248637857430225" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="428.9513111196961" y="0" width="14.085479107901582" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="443.03679022759763" y="0" width="9.28918251726119" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="452.3259727448588" y="0" width="7.674027255141158" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.74298572612437" height="8" fill="#f69e1d"/>
+                    <rect mask="url(#languages-bar)" x="252.74298572612437" y="0" width="81.44636385398779" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="334.18934958011215" y="0" width="58.20569836195759" height="8" fill="#ed5051"/>
+                    <rect mask="url(#languages-bar)" x="392.3950479420697" y="0" width="18.307463560969545" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="410.7025115030393" y="0" width="18.248630670027424" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="428.9511421730667" y="0" width="14.085473560199183" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="443.0366157332659" y="0" width="9.289178858626668" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="452.32579459189253" y="0" width="7.674205408107395" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -360,7 +360,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 46 commits)</small>
+                    <small class="h-details">(computed from last 48 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2229,6 +2229,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">my3t/TicTacToe</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#55a8d5a</div>
+                                        <div class="message">Update README</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">my3t/TicTacToe</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7601de0</div>
+                                        <div class="message">Fixed builds for Mac</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">TitanTF/Server</span>
                                     </div>
                                 </div>
@@ -2277,46 +2317,6 @@
                                     <div class="commit">
                                         <div class="sha">#9d3af04</div>
                                         <div class="message">Moved main menu logic to gui/mainmenu.c</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">my3t/TicTacToe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6976677</div>
-                                        <div class="message">Include fonts in Windows build package</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">my3t/TicTacToe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#438d184</div>
-                                        <div class="message">Removed .dll from .gitignore</div>
                                     </div>
                                 </div>
                             </section>
@@ -2508,7 +2508,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 888k out of 124m users</span>
+                                    <span class="gh">ranked 888k out of 123m users</span>
                                 </div>
                                 <div class="text">Published 41 public repositories</div>
                             </div>
@@ -2578,7 +2578,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 48.9k out of 92.3m repositories</span>
+                                    <span class="gh">ranked 48.9k out of 88.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 888 stars</div>
                             </div>
@@ -2772,7 +2772,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.30m out of 124m users</span>
+                                    <span class="gh">ranked 1.30m out of 123m users</span>
                                 </div>
                                 <div class="text">Followed by 10 users</div>
                             </div>
@@ -2851,7 +2851,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.56m out of 92.3m repositories</span>
+                                    <span class="gh">ranked 2.56m out of 88.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2969,7 +2969,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2023, 16:17:54 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2023, 17:13:58 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
