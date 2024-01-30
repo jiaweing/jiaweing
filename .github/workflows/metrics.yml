@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: my3t
+          user: jiaweing
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
