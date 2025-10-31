@@ -24,11 +24,12 @@ class jiaweing:
         self.alias     = "Jay"
         self.age       = 25
         self.location  = "Singapore"
+        self.website   = "https://jiaweing.com"
 
     @property
     def bio(self) -> str:
         return (
-            "an ordinary guy building unordinary things.\n"
+            "just an ordinary guy building software.\n"
             "a designer and software engineer crafting unique, and original digital experiences.\n"
             "drawn to psychology, space, quantum mechanics, and the strange phenomena that shape the universe."
         )
@@ -44,99 +45,9 @@ class jiaweing:
             },
             {
                 "title"       : "Founder",
-                "organization": "ryu",
-                "url"         : "",
-                "description" : "local and private desktop assistant that runs proactively in the background",
-            },
-            {
-                "title"       : "Founder",
-                "organization": "quest.tf",
-                "url"         : "https://quest.tf",
-                "description" : "team fortress 2 adventure-based platform",
-            },
-            {
-                "title"       : "Founder",
                 "organization": "supply.tf",
                 "url"         : "https://supply.tf",
                 "description" : "boldness, individuality, and the creation of opportunities through streetwear",
-            },
-            {
-                "title"       : "Founder, Podcast Host & News Writer",
-                "organization": "updatenight.com",
-                "url"         : "https://updatenight.com",
-                "description" : "newsletter delivering unique business and tech insights that rarely make headlines (1k+ views)",
-            },
-            {
-                "title"       : "Founder",
-                "organization": "Division Null ∅",
-                "url"         : "https://discord.com/invite/KTCGWC7bZn",
-                "description" : "discord server for tech enthusiasts to discover and share the latest in technology (80+ members)",
-            },
-            {
-                "title"       : "Co-Founder",
-                "organization": "paoverse.com",
-                "url"         : "https://paoverse.com",
-                "description" : "universe of original characters and merchandise (400+ followers)",
-            },
-            {
-                "title"       : "YouTube",
-                "organization": "Partner",
-                "url"         : "https://www.youtube.com/@j14wei",
-                "description" : "sharing my life as a tech startup founder in singapore (860+ subscribers, 100k views)",
-            },
-            {
-                "title"       : "Founder",
-                "organization": "decosmic.com",
-                "url"         : "https://decosmic.com",
-                "description" : "build and deploy AI agents grounded on your own trusted data sources",
-            },
-            {
-                "title"       : "Affiliate & Seller",
-                "organization": "Shopee",
-                "url"         : "https://shopee.sg",
-                "description" : "showcasing curated tech gear and collectibles",
-            },
-            {
-                "title"       : "Founder",
-                "organization": "been.place",
-                "url"         : "https://been.place",
-                "description" : "track, remember, and share places you've visited and want to visit",
-            },
-            {
-                "title"       : "Computer Science",
-                "organization": "University of Glasgow",
-                "url"         : "https://www.gla.ac.uk",
-                "description" : "(junior, 2026)",
-            },
-            {
-                "title"       : "Computer Science",
-                "organization": "Singapore Institute of Technology",
-                "url"         : "https://www.singaporetech.edu.sg",
-                "description" : "(junior, 2026)",
-            },
-            {
-                "title"       : "Campus Lead",
-                "organization": "Notion",
-                "url"         : "https://notion.so",
-                "description" : "Singapore Institute of Technology",
-            },
-            {
-                "title"       : "Creator",
-                "organization": "Unsplash",
-                "url"         : "https://unsplash.com/@jiaweing",
-                "description" : "(top 25%, 460k views and 4.3k downloads)",
-            },
-            {
-                "title"       : "Lead Mobile Developer",
-                "organization": "betteragesolutions.com",
-                "url"         : "https://betteragesolutions.com",
-                "description" : "streamlined medicine delivery processes for Singapore's public hospitals",
-            },
-            {
-                "title"       : "Founder",
-                "organization": "titan.tf",
-                "url"         : "https://titan.tf",
-                "description" : "(450k unique players, 10k monthly active users)",
             },
         ]
 
@@ -151,7 +62,7 @@ class jiaweing:
             "laptop"     : "MacBook Air M2 Midnight",
             "peripherals": [
                 "Yunzii AL75 Keyboard",
-                "Logitech MX Master 3",
+                "AULA F75 Pro",
                 "Shure SM7B + Focusrite Scarlett 2i2",
                 "Fujifilm X-T50 + Sigma 18-50mm f2.8",
             ],
