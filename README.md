@@ -67,7 +67,7 @@ jay = jiaweing()
 
 ### selected projects
 
-#### [dropdrawer](https://github.com/jiaweing/DropDrawer) • 160+ stars
+#### [dropdrawer](https://github.com/jiaweing/DropDrawer) [![GitHub stars](https://img.shields.io/github/stars/jiaweing/DropDrawer?style=flat&color=yellow)](https://github.com/jiaweing/DropDrawer/stargazers)
 responsive shadcn/ui dropdown-to-drawer component
 
 #### [ui](https://github.com/jiaweing/ui)
