@@ -67,16 +67,16 @@ jay = jiaweing()
 
 ### selected projects
 
-#### [dropdrawer](https://github.com/jiaweing/DropDrawer) • 160+ stars
+#### [dropdrawer](https://github.com/jiaweing/DropDrawer) [![GitHub stars](https://img.shields.io/github/stars/jiaweing/DropDrawer?style=flat&color=yellow)](https://github.com/jiaweing/DropDrawer/stargazers)
 responsive shadcn/ui dropdown-to-drawer component
 
-#### [ui](https://github.com/jiaweing/ui)
+#### [ui](https://github.com/jiaweing/ui) [![GitHub stars](https://img.shields.io/github/stars/jiaweing/ui?style=flat&color=yellow)](https://github.com/jiaweing/ui/stargazers)
 set of beautifully designed components inspired by Apple OS 26, built directly on top of shadcn
 
-#### [notion.pub](https://github.com/jiaweing/notion.pub)
+#### [notion.pub](https://github.com/jiaweing/notion.pub) [![GitHub stars](https://img.shields.io/github/stars/jiaweing/notion.pub?style=flat&color=yellow)](https://github.com/jiaweing/notion.pub/stargazers)
 open source social media scheduling bridge built on notion
 
-#### [verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)
+#### [verify.supply.tf](https://github.com/jiaweing/verify.supply.tf) [![GitHub stars](https://img.shields.io/github/stars/jiaweing/verify.supply.tf?style=flat&color=yellow)](https://github.com/jiaweing/verify.supply.tf/stargazers)
 blockchain-based verification system for tracking and verifying product authenticity and ownership 
 
 <h3 align="left">i build with</h3>
