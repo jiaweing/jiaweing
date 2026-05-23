@@ -57,7 +57,7 @@ class jiaweing:
     def __init__(self):
         self.name      = "Jia Wei Ng"
         self.alias     = "Jay"
-        self.age       = 25
+        self.age       = 26
         self.location  = "Singapore"
         self.website   = "https://jiaweing.com"
 
