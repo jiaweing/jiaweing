@@ -57,6 +57,11 @@
 * 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
 * ⚡ **[skills](https://github.com/amajorai/skills)** - simple, minimal skills for the things developers overlook when shipping apps
 
+### Web & UI
+
+* 📥 **[dropdrawer](https://github.com/jiaweing/DropDrawer)** (201 stars) - responsive shadcn/ui dropdown-to-drawer component
+* **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** (5 stars) - personal portfolio site
+
 ## Legacy Work
 
 ### AI & Agents
@@ -70,11 +75,6 @@
 * **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** (7 stars) - offline browser extension for reading QR codes directly from web pages
 * **[Unsplash-Multiple-Download](https://github.com/jiaweing/Unsplash-Multiple-Download)** (12 stars) - instantly download all images on a page on Unsplash
 * **[YouTube-Playlist-Delete-Video](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)** - Stylus style that restores double-click to remove videos from YouTube playlists
-
-### Web & UI
-
-* 📥 **[dropdrawer](https://github.com/jiaweing/DropDrawer)** (201 stars) - responsive shadcn/ui dropdown-to-drawer component
-* **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** (5 stars) - personal portfolio site
 
 ### APIs & Boilerplates
 
