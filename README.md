@@ -15,10 +15,9 @@
   <a href="mailto:hey@jiaweing.com"><img src="https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail" alt="Email" /></a>
   <a href="https://x.com/jiaweihq"><img src="https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x" alt="X" /></a>
   <a href="https://linkedin.com/in/jiaweing"><img src="https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/youtube/channel/subscribers/UC1DbzBvSzVVQnBlVDBXa3VX.png?logo=youtube&label=YouTube" alt="YouTube" /></a>
+  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/youtube/subscribers/UC1DbzBvSzVVQnBlVDBXa3VX.png?logo=youtube&label=YouTube" alt="YouTube" /></a>
   <a href="https://instagram.com/jiaweihq"><img src="https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram" alt="Instagram" /></a>
-  <a href="https://facebook.com/jiaweihq"><img src="https://shieldcn.dev/badge/Facebook-jiaweihq-1877F2.png?logo=facebook" alt="Facebook" /></a>
-  <a href="https://twitch.tv/jiaweihq"><img src="https://shieldcn.dev/twitch/channel/jiaweihq.png?logo=twitch&label=Twitch" alt="Twitch" /></a>
+  <a href="https://twitch.tv/jiaweihq"><img src="https://shieldcn.dev/twitch/followers/jiaweihq.png?logo=twitch&label=Twitch" alt="Twitch" /></a>
   <a href="https://kick.com/jiaweing"><img src="https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick" alt="Kick" /></a>
   <a href="https://tiktok.com/@jiaweihq"><img src="https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok" alt="TikTok" /></a>
   <a href="https://threads.net/@jiaweihq"><img src="https://shieldcn.dev/badge/Threads-jiaweihq-black.png?logo=threads" alt="Threads" /></a>
@@ -47,27 +46,28 @@
 
 ### AI & Agents
 
-* 🌎 **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** - multi-agent system that scrapes Lemon8 and generates comprehensive travel guides
-* 🤖 **[GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot)** - Telegram bot powered by Gemini 2.0 Flash for natural conversations and AI image generation
-* **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** - OpenAI-compatible HTTP API interface for GitHub Copilot with native GitHub authentication
+* 🌎 **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** (7 stars) - multi-agent system that scrapes Lemon8 and generates comprehensive travel guides
+* 🤖 **[GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot)** (5 stars) - Telegram bot powered by Gemini 2.0 Flash for natural conversations and AI image generation
+* **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** (6 stars) - OpenAI-compatible HTTP API interface for GitHub Copilot with native GitHub authentication
 
 ### Browser Extensions & Tools
 
-* **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** - offline browser extension for reading QR codes directly from web pages
-* **[Unsplash-Multiple-Download](https://github.com/jiaweing/Unsplash-Multiple-Download)** - instantly download all images on a page on Unsplash
+* **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** (7 stars) - offline browser extension for reading QR codes directly from web pages
+* **[Unsplash-Multiple-Download](https://github.com/jiaweing/Unsplash-Multiple-Download)** (12 stars) - instantly download all images on a page on Unsplash
 * **[YouTube-Playlist-Delete-Video](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)** - Stylus style that restores double-click to remove videos from YouTube playlists
 
 ### Web & UI
 
-* 📥 **[dropdrawer](https://github.com/jiaweing/DropDrawer)** - responsive shadcn/ui dropdown-to-drawer component
-* **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** - personal portfolio site
+* 📥 **[dropdrawer](https://github.com/jiaweing/DropDrawer)** (201 stars) - responsive shadcn/ui dropdown-to-drawer component
+* **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** (5 stars) - personal portfolio site
 
 ### APIs & Boilerplates
 
 * **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - barebones .NET 8 API with JWT auth and MySQL, zero abstractions, full control
 * **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain-based verification system for product authenticity and ownership tracking
 
-## Source Code
+<details>
+<summary>Source Code</summary>
 
 ```python
 from typing import List, Dict, Tuple
@@ -138,3 +138,5 @@ class jiaweing:
 
 jay = jiaweing()
 ```
+
+</details>
