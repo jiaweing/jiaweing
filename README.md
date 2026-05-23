@@ -69,18 +69,18 @@
 
 * 🌎 **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** (7 stars) - multi-agent system that scrapes Lemon8 and generates comprehensive travel guides
 * 🤖 **[GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot)** (5 stars) - Telegram bot powered by Gemini 2.0 Flash for natural conversations and AI image generation
-* **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** (6 stars) - OpenAI-compatible HTTP API interface for GitHub Copilot with native GitHub authentication
+* 🛩️ **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** (6 stars) - OpenAI-compatible HTTP API interface for GitHub Copilot with native GitHub authentication
 
 ### Browser Extensions & Tools
 
-* **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** (7 stars) - offline browser extension for reading QR codes directly from web pages
-* **[Unsplash-Multiple-Download](https://github.com/jiaweing/Unsplash-Multiple-Download)** (12 stars) - instantly download all images on a page on Unsplash
-* **[YouTube-Playlist-Delete-Video](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)** - Stylus style that restores double-click to remove videos from YouTube playlists
+* 🔲 **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** (7 stars) - offline browser extension for reading QR codes directly from web pages
+* 🖼️ **[Unsplash-Multiple-Download](https://github.com/jiaweing/Unsplash-Multiple-Download)** (12 stars) - instantly download all images on a page on Unsplash
+* 🗑️ **[YouTube-Playlist-Delete-Video](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)** - Stylus style that restores double-click to remove videos from YouTube playlists
 
 ### APIs & Boilerplates
 
-* **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - barebones .NET 8 API with JWT auth and MySQL, zero abstractions, full control
-* **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain-based verification system for product authenticity and ownership tracking
+* 🔐 **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - barebones .NET 8 API with JWT auth and MySQL, zero abstractions, full control
+* ✅ **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain-based verification system for product authenticity and ownership tracking
 
 <details>
 <summary>Source Code</summary>
