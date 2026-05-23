@@ -67,5 +67,21 @@ jay = jiaweing()
 
 ### selected projects
 
-#### [dropdrawer](https://github.com/jiaweing/DropDrawer) [![GitHub stars](https://img.shields.io/github/stars/jiaweing/DropDrawer?style=flat&color=yellow)](https://github.com/jiaweing/DropDrawer/stargazers)
-responsive shadcn/ui dropdown-to-drawer component
+#### [dropdrawer](https://github.com/jiaweing/DropDrawer) [![Stars](https://shieldcn.dev/github/stars/jiaweing/DropDrawer.png?logo=github)](https://github.com/jiaweing/DropDrawer/stargazers) - responsive shadcn/ui dropdown-to-drawer component
+
+## Current Projects
+
+### AI & Memory
+
+* 🌐 [layer0](https://github.com/amajorai/layer0) [![Stars](https://shieldcn.dev/github/stars/amajorai/layer0.png?logo=github)](https://github.com/amajorai/layer0) - self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
+
+### Desktop
+
+* 🎭 [backstage](https://github.com/amajorai/backstage) [![Stars](https://shieldcn.dev/github/stars/amajorai/backstage.png?logo=github)](https://github.com/amajorai/backstage) - open-source YouTube thumbnail studio with AI background removal and Gemini image generation
+* ⛩️ [torii](https://github.com/amajorai/torii) [![Stars](https://shieldcn.dev/github/stars/amajorai/torii.png?logo=github)](https://github.com/amajorai/torii) - production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
+
+### Claude Code Skills
+
+* 📦 [ship.md](https://github.com/amajorai/ship.md) [![Stars](https://shieldcn.dev/github/stars/amajorai/ship.md.png?logo=github)](https://github.com/amajorai/ship.md) - end-to-end skill for shipping features without gaps, running up to 10 quality-gated phases
+* 🪅 [vibe.md](https://github.com/amajorai/vibe.md) [![Stars](https://shieldcn.dev/github/stars/amajorai/vibe.md.png?logo=github)](https://github.com/amajorai/vibe.md) - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
+* ⚡ [skills](https://github.com/amajorai/skills) [![Stars](https://shieldcn.dev/github/stars/amajorai/skills.png?logo=github)](https://github.com/amajorai/skills) - simple, minimal skills for the things developers overlook when shipping apps
