@@ -20,6 +20,10 @@
   <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
 </p>
 
+</div>
+
+## Connect
+
 <p>
   <a href="https://x.com/jiaweihq"><img src="https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x" alt="X" /></a>
   <a href="https://linkedin.com/in/jiaweing"><img src="https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin" alt="LinkedIn" /></a>
@@ -34,12 +38,14 @@
   <a href="https://kick.com/jiaweing"><img src="https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick" alt="Kick" /></a>
 </p>
 
+## 🌙 Update Night
+
+An AI-native media platform and catalog for builders. Newsletter, Telegram, Discord, podcast, and a curated catalog of AI and dev tools — covering what's shipping in the AI and developer ecosystem before it hits the headlines.
+
 <p>
   <a href="https://updatenight.com"><img src="https://shieldcn.dev/badge/Update%20Night-subscribe-orange.png?variant=secondary&logo=substack" alt="Update Night" /></a>
   <a href="https://open.spotify.com/show/4ynkzghYMkJDlw9lMxEdfy"><img src="https://shieldcn.dev/badge/Podcast-listen-1DB954.png?logo=spotify" alt="Podcast" /></a>
 </p>
-
-</div>
 
 ## Current Projects
 
