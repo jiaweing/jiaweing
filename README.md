@@ -118,6 +118,7 @@ jay = jiaweing()
 
 * 📥 **[dropdrawer](https://github.com/jiaweing/DropDrawer)** (201 stars) - responsive shadcn/ui dropdown-to-drawer component
 * 📂 **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** (5 stars) - personal portfolio site
+* 🎨 **[ui](https://github.com/jiaweing/ui)** - fork of shadcn/ui
 
 ## Legacy Work
 
