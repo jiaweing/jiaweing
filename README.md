@@ -118,7 +118,14 @@ jay = jiaweing()
 
 * 📥 **[dropdrawer](https://github.com/jiaweing/DropDrawer)** (201 stars) - responsive shadcn/ui dropdown-to-drawer component
 * 📂 **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** (5 stars) - personal portfolio site
-* 🎨 **[ui](https://github.com/jiaweing/ui)** - fork of shadcn/ui
+* 🪟 **[ui](https://github.com/jiaweing/ui)** - beautifully designed components inspired by iOS 26 and macOS 26, built on shadcn/ui
+
+### Browser Extensions & Tools
+
+* 🔲 **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** (7 stars) - offline browser extension for reading QR codes directly from web pages
+* 🖼️ **[Unsplash-Multiple-Download](https://github.com/jiaweing/Unsplash-Multiple-Download)** (12 stars) - instantly download all images on a page on Unsplash
+* 🗑️ **[YouTube-Playlist-Delete-Video](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)** - Stylus style that restores double-click to remove videos from YouTube playlists
+* 🔍 **[center-google-search](https://github.com/jiaweing/center-google-search)** - Stylus style for centered Google search results
 
 ## Legacy Work
 
@@ -131,13 +138,6 @@ jay = jiaweing()
 * 🏨 **[agoda-agent](https://github.com/jiaweing/agoda-agent)** - multi-agent system that analyzes Agoda hotel listings and generates accommodation guides
 * 🔍 **[localRAG-api](https://github.com/jiaweing/localRAG-api)** (3 stars) - local RAG API, superseded by layer0
 * 🤖 **[localLLM-api](https://github.com/jiaweing/localLLM-api)** - local LLM API, superseded by layer0
-### Browser Extensions & Tools
-
-* 🔲 **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** (7 stars) - offline browser extension for reading QR codes directly from web pages
-* 🖼️ **[Unsplash-Multiple-Download](https://github.com/jiaweing/Unsplash-Multiple-Download)** (12 stars) - instantly download all images on a page on Unsplash
-* 🗑️ **[YouTube-Playlist-Delete-Video](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)** - Stylus style that restores double-click to remove videos from YouTube playlists
-* 🔍 **[center-google-search](https://github.com/jiaweing/center-google-search)** - Stylus style for centered Google search results
-
 ### APIs & Boilerplates
 
 * 🔐 **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - barebones .NET 8 API with JWT auth and MySQL, zero abstractions, full control
