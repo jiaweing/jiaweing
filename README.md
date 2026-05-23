@@ -65,6 +65,16 @@ class jiaweing:
 jay = jiaweing()
 ```
 
+<p>
+  <a href="https://jiaweing.com"><img src="https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome" alt="Website" /></a>
+  <a href="mailto:hey@jiaweing.com"><img src="https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail" alt="Email" /></a>
+  <a href="https://x.com/j14wei"><img src="https://shieldcn.dev/badge/X-j14wei-black.png?logo=x" alt="X" /></a>
+  <a href="https://linkedin.com/in/jiaweing"><img src="https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@j14wei"><img src="https://shieldcn.dev/badge/YouTube-j14wei-FF0000.png?logo=youtube" alt="YouTube" /></a>
+  <a href="https://github.com/jiaweing"><img src="https://shieldcn.dev/github/followers/jiaweing.png?logo=github" alt="GitHub Followers" /></a>
+  <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
+</p>
+
 ## Current Projects
 
 ### AI & Memory
