@@ -15,6 +15,7 @@
 <p>
   <a href="https://jiaweing.com"><img src="https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome" alt="Website" /></a>
   <a href="mailto:hey@jiaweing.com"><img src="https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail" alt="Email" /></a>
+  <a href="https://github.com/jiaweing"><img src="https://shieldcn.dev/github/followers/jiaweing.png?logo=github" alt="GitHub Followers" /></a>
   <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
 </p>
 
@@ -30,12 +31,11 @@
   <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/badge/YouTube-jiaweihq-FF0000.png?logo=youtube" alt="YouTube" /></a>
   <a href="https://twitch.tv/jiaweihq"><img src="https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch" alt="Twitch" /></a>
   <a href="https://kick.com/jiaweing"><img src="https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick" alt="Kick" /></a>
-  <a href="https://open.spotify.com/show/4ynkzghYMkJDlw9lMxEdfy"><img src="https://shieldcn.dev/badge/Podcast-listen-1DB954.png?logo=spotify" alt="Podcast" /></a>
 </p>
 
 <p>
   <a href="https://updatenight.com"><img src="https://shieldcn.dev/badge/Update%20Night-subscribe-orange.png?variant=secondary&logo=substack" alt="Update Night" /></a>
-  <a href="https://github.com/jiaweing"><img src="https://shieldcn.dev/github/followers/jiaweing.png?logo=github" alt="GitHub Followers" /></a>
+  <a href="https://open.spotify.com/show/4ynkzghYMkJDlw9lMxEdfy"><img src="https://shieldcn.dev/badge/Podcast-listen-1DB954.png?logo=spotify" alt="Podcast" /></a>
 </p>
 
 </div>
