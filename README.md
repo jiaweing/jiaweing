@@ -9,6 +9,39 @@
  \|________|\|__|\|__|\|__|        \|____________|\|_______|\|__|        \|__| \|__|\|_______|
 
 ```
+
+<p>
+  <a href="https://jiaweing.com"><img src="https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome" alt="Website" /></a>
+  <a href="mailto:hey@jiaweing.com"><img src="https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail" alt="Email" /></a>
+  <a href="https://x.com/jiaweihq"><img src="https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x" alt="X" /></a>
+  <a href="https://linkedin.com/in/jiaweing"><img src="https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/badge/YouTube-jiaweihq-FF0000.png?logo=youtube" alt="YouTube" /></a>
+  <a href="https://instagram.com/jiaweihq"><img src="https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram" alt="Instagram" /></a>
+  <a href="https://facebook.com/jiaweihq"><img src="https://shieldcn.dev/badge/Facebook-jiaweihq-1877F2.png?logo=facebook" alt="Facebook" /></a>
+  <a href="https://twitch.tv/jiaweihq"><img src="https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch" alt="Twitch" /></a>
+  <a href="https://kick.com/jiaweing"><img src="https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick" alt="Kick" /></a>
+  <a href="https://tiktok.com/@jiaweihq"><img src="https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok" alt="TikTok" /></a>
+  <a href="https://github.com/jiaweing"><img src="https://shieldcn.dev/github/followers/jiaweing.png?logo=github" alt="GitHub Followers" /></a>
+  <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
+</p>
+
+## Current Projects
+
+### AI & Memory
+
+* 🌐 **[layer0](https://github.com/amajorai/layer0)** - self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
+
+### Desktop
+
+* 🎭 **[backstage](https://github.com/amajorai/backstage)** - open-source YouTube thumbnail studio with AI background removal and Gemini image generation
+* ⛩️ **[torii](https://github.com/amajorai/torii)** - production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
+
+### Claude Code Skills
+
+* 📦 **[ship.md](https://github.com/amajorai/ship.md)** - end-to-end skill for shipping features without gaps, running up to 10 quality-gated phases
+* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
+* ⚡ **[skills](https://github.com/amajorai/skills)** - simple, minimal skills for the things developers overlook when shipping apps
+
 ```python
 from typing import List, Dict, Tuple
 
@@ -55,8 +88,8 @@ class jiaweing:
     def contact(self) -> Tuple[str, str, str, str, str]:
         github   = "github.com/jiaweing"
         linkedin = "linkedin.com/in/jiaweing"
-        twitter  = "x.com/j14wei"
-        youtube  = "youtube.com/@j14wei"
+        twitter  = "x.com/jiaweihq"
+        youtube  = "youtube.com/@jiaweihq"
         email    = "hey@jiaweing.com"
 
         return github, linkedin, twitter, youtube, email
@@ -64,33 +97,6 @@ class jiaweing:
 
 jay = jiaweing()
 ```
-
-<p>
-  <a href="https://jiaweing.com"><img src="https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome" alt="Website" /></a>
-  <a href="mailto:hey@jiaweing.com"><img src="https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail" alt="Email" /></a>
-  <a href="https://x.com/j14wei"><img src="https://shieldcn.dev/badge/X-j14wei-black.png?logo=x" alt="X" /></a>
-  <a href="https://linkedin.com/in/jiaweing"><img src="https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@j14wei"><img src="https://shieldcn.dev/badge/YouTube-j14wei-FF0000.png?logo=youtube" alt="YouTube" /></a>
-  <a href="https://github.com/jiaweing"><img src="https://shieldcn.dev/github/followers/jiaweing.png?logo=github" alt="GitHub Followers" /></a>
-  <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
-</p>
-
-## Current Projects
-
-### AI & Memory
-
-* 🌐 **[layer0](https://github.com/amajorai/layer0)** - self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
-
-### Desktop
-
-* 🎭 **[backstage](https://github.com/amajorai/backstage)** - open-source YouTube thumbnail studio with AI background removal and Gemini image generation
-* ⛩️ **[torii](https://github.com/amajorai/torii)** - production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
-
-### Claude Code Skills
-
-* 📦 **[ship.md](https://github.com/amajorai/ship.md)** - end-to-end skill for shipping features without gaps, running up to 10 quality-gated phases
-* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
-* ⚡ **[skills](https://github.com/amajorai/skills)** - simple, minimal skills for the things developers overlook when shipping apps
 
 ## Legacy Work
 
