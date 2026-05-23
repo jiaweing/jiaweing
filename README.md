@@ -128,8 +128,8 @@ jay = jiaweing()
 * 🛩️ **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** (6 stars) - OpenAI-compatible HTTP API interface for GitHub Copilot with native GitHub authentication
 * 🌙 **[updatenight-agent](https://github.com/jiaweing/updatenight-agent)** - automated Update Night newsletter generation using crewAI agents
 * 🏨 **[agoda-agent](https://github.com/jiaweing/agoda-agent)** - multi-agent system that analyzes Agoda hotel listings and generates accommodation guides
-* 🔍 **[localRAG-api](https://github.com/jiaweing/localRAG-api)** (3 stars) - local RAG API
-* 🤖 **[localLLM-api](https://github.com/jiaweing/localLLM-api)** - local LLM API
+* 🔍 **[localRAG-api](https://github.com/jiaweing/localRAG-api)** (3 stars) - local RAG API, superseded by layer0
+* 🤖 **[localLLM-api](https://github.com/jiaweing/localLLM-api)** - local LLM API, superseded by layer0
 ### Browser Extensions & Tools
 
 * 🔲 **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** (7 stars) - offline browser extension for reading QR codes directly from web pages
