@@ -82,6 +82,8 @@ jay = jiaweing()
 * 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
 * ⚡ **[skills](https://github.com/amajorai/skills)** - simple, minimal skills for the things developers overlook when shipping apps
 
+## Legacy Work
+
 ### AI & Agents
 
 * 🌎 **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** - multi-agent system that scrapes Lemon8 and generates comprehensive travel guides
