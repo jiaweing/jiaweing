@@ -130,8 +130,6 @@ jay = jiaweing()
 * 🏨 **[agoda-agent](https://github.com/jiaweing/agoda-agent)** - multi-agent system that analyzes Agoda hotel listings and generates accommodation guides
 * 🔍 **[localRAG-api](https://github.com/jiaweing/localRAG-api)** (3 stars) - local RAG API
 * 🤖 **[localLLM-api](https://github.com/jiaweing/localLLM-api)** - local LLM API
-* 💻 **[hugh](https://github.com/jiaweing/hugh)** - TypeScript project
-
 ### Browser Extensions & Tools
 
 * 🔲 **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** (7 stars) - offline browser extension for reading QR codes directly from web pages
@@ -148,15 +146,6 @@ jay = jiaweing()
 
 * 🏢 **[base7-landing](https://github.com/jiaweing/base7-landing)** - landing page for Base7
 * ✏️ **[telequill](https://github.com/jiaweing/telequill)** - transform public Telegram channels into elegant blog-style websites
-
-### Hardware & IoT
-
-* 📡 **[IoT-Quiz](https://github.com/jiaweing/IoT-Quiz)** - real-time interactive quiz system powered by M5StickC Plus devices with MQTT and Next.js
-* 🔧 **[pi-control-motor-led](https://github.com/jiaweing/pi-control-motor-led)** - Python script to control a DC motor and LED with Raspberry Pi
-
-### Games
-
-* 🎮 **[TicTacToe](https://github.com/jiaweing/TicTacToe)** - Tic Tac Toe game written in C with SDL2
 
 ## Connect
 
