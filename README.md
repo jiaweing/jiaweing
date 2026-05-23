@@ -65,23 +65,41 @@ class jiaweing:
 jay = jiaweing()
 ```
 
-### selected projects
-
-#### [dropdrawer](https://github.com/jiaweing/DropDrawer) [![Stars](https://shieldcn.dev/github/stars/jiaweing/DropDrawer.png?logo=github)](https://github.com/jiaweing/DropDrawer/stargazers) - responsive shadcn/ui dropdown-to-drawer component
-
 ## Current Projects
 
 ### AI & Memory
 
-* 🌐 [layer0](https://github.com/amajorai/layer0) [![Stars](https://shieldcn.dev/github/stars/amajorai/layer0.png?logo=github)](https://github.com/amajorai/layer0) - self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
+* 🌐 [layer0](https://github.com/amajorai/layer0) - self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
 
 ### Desktop
 
-* 🎭 [backstage](https://github.com/amajorai/backstage) [![Stars](https://shieldcn.dev/github/stars/amajorai/backstage.png?logo=github)](https://github.com/amajorai/backstage) - open-source YouTube thumbnail studio with AI background removal and Gemini image generation
-* ⛩️ [torii](https://github.com/amajorai/torii) [![Stars](https://shieldcn.dev/github/stars/amajorai/torii.png?logo=github)](https://github.com/amajorai/torii) - production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
+* 🎭 [backstage](https://github.com/amajorai/backstage) - open-source YouTube thumbnail studio with AI background removal and Gemini image generation
+* ⛩️ [torii](https://github.com/amajorai/torii) - production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
 
 ### Claude Code Skills
 
-* 📦 [ship.md](https://github.com/amajorai/ship.md) [![Stars](https://shieldcn.dev/github/stars/amajorai/ship.md.png?logo=github)](https://github.com/amajorai/ship.md) - end-to-end skill for shipping features without gaps, running up to 10 quality-gated phases
-* 🪅 [vibe.md](https://github.com/amajorai/vibe.md) [![Stars](https://shieldcn.dev/github/stars/amajorai/vibe.md.png?logo=github)](https://github.com/amajorai/vibe.md) - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
-* ⚡ [skills](https://github.com/amajorai/skills) [![Stars](https://shieldcn.dev/github/stars/amajorai/skills.png?logo=github)](https://github.com/amajorai/skills) - simple, minimal skills for the things developers overlook when shipping apps
+* 📦 [ship.md](https://github.com/amajorai/ship.md) - end-to-end skill for shipping features without gaps, running up to 10 quality-gated phases
+* 🪅 [vibe.md](https://github.com/amajorai/vibe.md) - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
+* ⚡ [skills](https://github.com/amajorai/skills) - simple, minimal skills for the things developers overlook when shipping apps
+
+### AI & Agents
+
+* 🌎 [lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent) - multi-agent system that scrapes Lemon8 and generates comprehensive travel guides
+* 🤖 [GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot) - Telegram bot powered by Gemini 2.0 Flash for natural conversations and AI image generation
+* [copilot-chat-api](https://github.com/jiaweing/copilot-chat-api) - OpenAI-compatible HTTP API interface for GitHub Copilot with native GitHub authentication
+
+### Browser Extensions & Tools
+
+* [altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension) - offline browser extension for reading QR codes directly from web pages
+* [Unsplash-Multiple-Download](https://github.com/jiaweing/Unsplash-Multiple-Download) - instantly download all images on a page on Unsplash
+* [YouTube-Playlist-Delete-Video](https://github.com/jiaweing/YouTube-Playlist-Delete-Video) - Stylus style that restores double-click to remove videos from YouTube playlists
+
+### Web & UI
+
+* 📥 [dropdrawer](https://github.com/jiaweing/DropDrawer) - responsive shadcn/ui dropdown-to-drawer component
+* [portfolio-dex](https://github.com/jiaweing/portfolio-dex) - personal portfolio site
+
+### APIs & Boilerplates
+
+* [dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate) - barebones .NET 8 API with JWT auth and MySQL, zero abstractions, full control
+* [verify.supply.tf](https://github.com/jiaweing/verify.supply.tf) - blockchain-based verification system for product authenticity and ownership tracking
