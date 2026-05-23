@@ -15,12 +15,13 @@
   <a href="mailto:hey@jiaweing.com"><img src="https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail" alt="Email" /></a>
   <a href="https://x.com/jiaweihq"><img src="https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x" alt="X" /></a>
   <a href="https://linkedin.com/in/jiaweing"><img src="https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/badge/YouTube-jiaweihq-FF0000.png?logo=youtube" alt="YouTube" /></a>
+  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/youtube/channel/subscribers/UC1DbzBvSzVVQnBlVDBXa3VX.png?logo=youtube&label=YouTube" alt="YouTube" /></a>
   <a href="https://instagram.com/jiaweihq"><img src="https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram" alt="Instagram" /></a>
   <a href="https://facebook.com/jiaweihq"><img src="https://shieldcn.dev/badge/Facebook-jiaweihq-1877F2.png?logo=facebook" alt="Facebook" /></a>
-  <a href="https://twitch.tv/jiaweihq"><img src="https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch" alt="Twitch" /></a>
+  <a href="https://twitch.tv/jiaweihq"><img src="https://shieldcn.dev/twitch/channel/jiaweihq.png?logo=twitch&label=Twitch" alt="Twitch" /></a>
   <a href="https://kick.com/jiaweing"><img src="https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick" alt="Kick" /></a>
   <a href="https://tiktok.com/@jiaweihq"><img src="https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok" alt="TikTok" /></a>
+  <a href="https://threads.net/@jiaweihq"><img src="https://shieldcn.dev/badge/Threads-jiaweihq-black.png?logo=threads" alt="Threads" /></a>
   <a href="https://github.com/jiaweing"><img src="https://shieldcn.dev/github/followers/jiaweing.png?logo=github" alt="GitHub Followers" /></a>
   <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
 </p>
@@ -84,6 +85,8 @@ class jiaweing:
         self.age       = 26
         self.location  = "Singapore"
         self.website   = "https://jiaweing.com"
+        self.education = "BSc Computing Science · SIT + University of Glasgow"
+        self.stack     = ["TypeScript", "Rust", "Python", ".NET", "Next.js", "Tauri", "React Native", "Postgres", "SQLite"]
 
     @property
     def bio(self) -> str:
@@ -92,6 +95,18 @@ class jiaweing:
             "a designer and software engineer crafting unique, and original digital experiences.\n"
             "drawn to psychology, space, quantum mechanics, and the strange phenomena that shape the universe."
         )
+
+    @property
+    def achievements(self) -> List[str]:
+        return [
+            "Google APAC Solution Challenge 2025 — Top 10",
+            "Dell InnovateFest 2025 — Finalist",
+            "Dell Cloud Native Awards — 1st Place (x2)",
+            "built titan.tf at 15 — 460k+ players, 20k+ Steam members",
+            "founded 18 startups, shipped 17 apps",
+            "top 25% Unsplash contributor — 460k+ views, 4.3k+ downloads",
+            "87+ blog posts published",
+        ]
 
     @property
     def setup(self) -> Dict[str, object]:
