@@ -112,6 +112,7 @@ jay = jiaweing()
 
 * 📦 **[ship.md](https://github.com/amajorai/ship.md)** - end-to-end skill for shipping features without gaps, running up to 10 quality-gated phases
 * 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
+* 🎉 **[party.md](https://github.com/amajorai/party.md)** - use GitHub issues and projects as a kanban board to ship features 24/7 autonomously
 * ⚡ **[skills](https://github.com/amajorai/skills)** - simple, minimal skills for the things developers overlook when shipping apps
 
 ### Web & UI
