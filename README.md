@@ -108,7 +108,7 @@ jay = jiaweing()
 * 🎭 **[backstage](https://github.com/amajorai/backstage)** - open-source YouTube thumbnail studio with AI background removal and Gemini image generation
 * ⛩️ **[torii](https://github.com/amajorai/torii)** - production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
 
-### Claude Code Skills
+### Skills
 
 * 📦 **[ship.md](https://github.com/amajorai/ship.md)** - end-to-end skill for shipping features without gaps, running up to 10 quality-gated phases
 * 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
