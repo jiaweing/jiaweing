@@ -157,7 +157,8 @@ jay = jiaweing()
   <a href="https://instagram.com/jiaweihq"><img src="https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram" alt="Instagram" /></a>
   <a href="https://threads.net/@jiaweihq"><img src="https://shieldcn.dev/badge/Threads-jiaweihq-black.png?logo=threads" alt="Threads" /></a>
   <a href="https://tiktok.com/@jiaweihq"><img src="https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok" alt="TikTok" /></a>
-  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/badge/YouTube-jiaweihq-FF0000.png?logo=youtube" alt="YouTube" /></a>
+  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/youtube/subscribers/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=branded" alt="YouTube Subscribers" /></a>
+  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/youtube/channel-views/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=secondary" alt="YouTube Channel Views" /></a>
   <a href="https://twitch.tv/jiaweihq"><img src="https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch" alt="Twitch" /></a>
   <a href="https://kick.com/jiaweing"><img src="https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick" alt="Kick" /></a>
 </p>
