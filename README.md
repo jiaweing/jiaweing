@@ -104,10 +104,13 @@ jay = jiaweing()
 
 ### Skills
 
-* 📦 **[ship.md](https://github.com/amajorai/ship.md)** - end-to-end skill for shipping features without gaps, running up to 10 quality-gated phases
-* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - end-to-end skill for spinning up a production-ready full-stack dev and deploy environment
-* 🎉 **[party.md](https://github.com/amajorai/party.md)** - use GitHub issues and projects as a kanban board to ship features 24/7 autonomously
-* ⚡ **[skills](https://github.com/amajorai/skills)** - simple, minimal skills for the things developers overlook when shipping apps
+* 🌼 **[amajor.md](https://github.com/amajorai/amajor.md)** - master skill directory. one install, discover every A Major skill. built for agents to find the right tool for any task.
+* 📦 **[ship.md](https://github.com/amajorai/ship.md)** - a thin, structured workflow for shipping features. simple, minimal, lean. one interview, one plan, ship the thing.
+* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - spin up a 24/7 production-ready full-stack dev and deploy environment. one interview, one clean pass.
+* 🎉 **[party.md](https://github.com/amajorai/party.md)** - GitHub Projects as the interface. drop in issues, it ships them while you sleep.
+* 🎬 **[replay.md](https://github.com/amajorai/replay.md)** - record a live video of your running app and share the link, straight from chat.
+* 🔎 **[fix.md](https://github.com/amajorai/fix.md)** - systematic bug-fixing. explore first, instrument strategically, read the logs, fix surgically, verify clean.
+* ⚡ **[skills](https://github.com/amajorai/skills)** - 30+ smaller skills for the things developers overlook when shipping. edge cases, E2E, auth, payments, SEO, CI, and more.
 
 ### Web & UI
 
