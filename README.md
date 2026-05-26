@@ -20,7 +20,7 @@
   <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
 </p>
 
- [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/jiaweing.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-83-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) [Company](https://www.shieldcn.dev/badge/Company-A_Major-1f2937.svg?logo=building&variant=ghost&size=sm)
+ [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/jiaweing.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-83-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Company](https://www.shieldcn.dev/badge/Company-A_Major-1f2937.svg?logo=building&variant=ghost&size=sm)
 
 </div>
 
