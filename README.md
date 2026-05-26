@@ -13,9 +13,9 @@
 
 <div align="center">
 
-[![Website](https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome)](https://jiaweing.com) [![Email](https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail)](mailto:hey@jiaweing.com) [![GitHub Followers](https://shieldcn.dev/github/followers/jiaweing.png?logo=github)](https://github.com/jiaweing) [![GitHub Stars](https://shieldcn.dev/github/stars/jiaweing.png?logo=github)](https://github.com/jiaweing)
+[![Website](https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome)](https://jiaweing.com) [![Email](https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail)](mailto:hey@jiaweing.com) [![GitHub Followers](https://shieldcn.dev/github/followers/jiaweing.png?logo=github)](https://github.com/jiaweing) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/jiaweing.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Made in Singapore](https://shieldcn.dev/badge/made%20in-Singapore-red.png)
 
- [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/jiaweing.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-83-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Company](https://www.shieldcn.dev/badge/Company-A_Major-1f2937.svg?logo=building&variant=ghost&size=sm)
+[![Public Repos](https://www.shieldcn.dev/badge/Repos-83-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Company](https://www.shieldcn.dev/badge/Company-A_Major-1f2937.svg?logo=building&variant=ghost&size=sm)
 
 </div>
 
