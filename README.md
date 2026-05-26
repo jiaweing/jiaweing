@@ -20,6 +20,8 @@
   <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
 </p>
 
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/jiaweing.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/jiaweing.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-83-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Singapore-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) ![Company](https://www.shieldcn.dev/badge/Company-A_Major-1f2937.svg?logo=building&variant=ghost&size=sm)
+
 </div>
 
 <details>
@@ -148,6 +150,10 @@ jay = jiaweing()
 
 * 🏢 **[base7-landing](https://github.com/jiaweing/base7-landing)** - landing page for Base7
 * ✏️ **[telequill](https://github.com/jiaweing/telequill)** - transform public Telegram channels into elegant blog-style websites
+
+## Skills & Technologies
+
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm) ![Biome](https://www.shieldcn.dev/badge/-Biome-60A5FA.svg?logo=biome&variant=branded&size=sm) ![Husky](https://www.shieldcn.dev/badge/-Husky-3B82F6.svg?logo=husky&variant=branded&size=sm)
 
 ## Connect
 
