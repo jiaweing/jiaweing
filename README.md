@@ -13,12 +13,7 @@
 
 <div align="center">
 
-<p>
-  <a href="https://jiaweing.com"><img src="https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome" alt="Website" /></a>
-  <a href="mailto:hey@jiaweing.com"><img src="https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail" alt="Email" /></a>
-  <a href="https://github.com/jiaweing"><img src="https://shieldcn.dev/github/followers/jiaweing.png?logo=github" alt="GitHub Followers" /></a>
-  <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
-</p>
+[![Website](https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome)](https://jiaweing.com) [![Email](https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail)](mailto:hey@jiaweing.com) [![GitHub Followers](https://shieldcn.dev/github/followers/jiaweing.png?logo=github)](https://github.com/jiaweing) [![GitHub Stars](https://shieldcn.dev/github/stars/jiaweing.png?logo=github)](https://github.com/jiaweing)
 
  [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/jiaweing.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-83-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Company](https://www.shieldcn.dev/badge/Company-A_Major-1f2937.svg?logo=building&variant=ghost&size=sm)
 
@@ -157,23 +152,10 @@ jay = jiaweing()
 
 ## Connect
 
-<p>
-  <a href="https://x.com/jiaweihq"><img src="https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x" alt="X" /></a>
-  <a href="https://linkedin.com/in/jiaweing"><img src="https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/jiaweihq"><img src="https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram" alt="Instagram" /></a>
-  <a href="https://threads.net/@jiaweihq"><img src="https://shieldcn.dev/badge/Threads-jiaweihq-black.png?logo=threads" alt="Threads" /></a>
-  <a href="https://tiktok.com/@jiaweihq"><img src="https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok" alt="TikTok" /></a>
-  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/youtube/subscribers/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=branded" alt="YouTube Subscribers" /></a>
-  <a href="https://youtube.com/@jiaweihq"><img src="https://shieldcn.dev/youtube/channel-views/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=secondary" alt="YouTube Channel Views" /></a>
-  <a href="https://twitch.tv/jiaweihq"><img src="https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch" alt="Twitch" /></a>
-  <a href="https://kick.com/jiaweing"><img src="https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick" alt="Kick" /></a>
-</p>
+[![X](https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x)](https://x.com/jiaweihq) [![LinkedIn](https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin)](https://linkedin.com/in/jiaweing) [![Instagram](https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram)](https://instagram.com/jiaweihq) [![Threads](https://shieldcn.dev/badge/Threads-jiaweihq-black.png?logo=threads)](https://threads.net/@jiaweihq) [![TikTok](https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok)](https://tiktok.com/@jiaweihq) [![YouTube Subscribers](https://shieldcn.dev/youtube/subscribers/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=branded)](https://youtube.com/@jiaweihq) [![YouTube Channel Views](https://shieldcn.dev/youtube/channel-views/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=secondary)](https://youtube.com/@jiaweihq) [![Twitch](https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch)](https://twitch.tv/jiaweihq) [![Kick](https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick)](https://kick.com/jiaweing)
 
 ## 🌙 Update Night
 
 An AI-native media platform and catalog for builders. Newsletter, Telegram, Discord, podcast, and a curated catalog of AI and dev tools — covering what's shipping in the AI and developer ecosystem before it hits the headlines.
 
-<p>
-  <a href="https://updatenight.com"><img src="https://shieldcn.dev/badge/Update%20Night-subscribe-orange.png?variant=secondary&logo=substack" alt="Update Night" /></a>
-  <a href="https://open.spotify.com/show/4ynkzghYMkJDlw9lMxEdfy"><img src="https://shieldcn.dev/badge/Podcast-listen-1DB954.png?logo=spotify" alt="Podcast" /></a>
-</p>
+[![Update Night](https://shieldcn.dev/badge/Update%20Night-subscribe-orange.png?variant=secondary&logo=substack)](https://updatenight.com) [![Podcast](https://shieldcn.dev/badge/Podcast-listen-1DB954.png?logo=spotify)](https://open.spotify.com/show/4ynkzghYMkJDlw9lMxEdfy)
