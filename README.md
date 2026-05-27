@@ -105,6 +105,7 @@ jay = jiaweing()
 ### Skills
 
 * 🌼 **[amajor.md](https://github.com/amajorai/amajor.md)** - master skill directory. one install, discover every A Major skill. built for agents to find the right tool for any task.
+* 👻 **[spec.md](https://github.com/amajorai/spec.md)** - spec-driven development. break any task into atomic, agent-ready github issues. the first step before shipping.
 * 📦 **[ship.md](https://github.com/amajorai/ship.md)** - a thin, structured workflow for shipping features. simple, minimal, lean. one interview, one plan, ship the thing.
 * 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - spin up a 24/7 production-ready full-stack dev and deploy environment. one interview, one clean pass.
 * 🎉 **[party.md](https://github.com/amajorai/party.md)** - GitHub Projects as the interface. drop in issues, it ships them while you sleep.
