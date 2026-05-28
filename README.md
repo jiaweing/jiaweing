@@ -111,6 +111,8 @@ jay = jiaweing()
 * 🎉 **[party.md](https://github.com/amajorai/party.md)** - GitHub Projects as the interface. drop in issues, it ships them while you sleep.
 * 🎬 **[replay.md](https://github.com/amajorai/replay.md)** - record a live video of your running app and share the link, straight from chat.
 * 🔎 **[fix.md](https://github.com/amajorai/fix.md)** - systematic bug-fixing. explore first, instrument strategically, read the logs, fix surgically, verify clean.
+* 🧪 **[sandbox.md](https://github.com/amajorai/sandbox.md)** - self-hosted cloud sandbox environment. choose daytona, docker+bun, or firecracker. spawn isolated exec sandboxes or long-lived dev workspaces from chat.
+* 📋 **[ctx.md](https://github.com/amajorai/ctx.md)** - write and maintain claude.md and agents.md for any workspace. explores the codebase, interviews for gaps, gives every agent full orientation in one read.
 * ⚡ **[skills](https://github.com/amajorai/skills)** - 30+ smaller skills for the things developers overlook when shipping. edge cases, E2E, auth, payments, SEO, CI, and more.
 
 ### Web & UI
