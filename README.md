@@ -93,8 +93,8 @@ jay = jiaweing()
 
 ## Projects
 
-* **[Ryu](https://github.com/amajorai/ryu)** - open-source agentic infrastructure
-* **[DropDrawer](https://github.com/jiaweing/DropDrawer)** - dropdown on desktop, drawer on mobile, for shadcn/ui <a href="https://github.com/jiaweing/DropDrawer/stargazers"><img src="https://www.shieldcn.dev/github/stars/jiaweing/DropDrawer.svg?variant=secondary&size=sm" alt="Stars" align="absmiddle"></a>
+* **[Ryu](https://github.com/amajorai/ryu)** (45 stars) - open-source agentic infrastructure
+* **[DropDrawer](https://github.com/jiaweing/DropDrawer)** (207 stars) - dropdown on desktop, drawer on mobile, for shadcn/ui
 * **[ui](https://github.com/jiaweing/ui)** - iOS 26 and macOS 26 inspired components on shadcn/ui
 * **[voiceprompt](https://github.com/jiaweing/voiceprompt)** - voice-activated teleprompter in the browser
 * **[sg-theory-prep](https://github.com/jiaweing/sg-theory-prep)** - practice and cheatsheets for Singapore's BTT, FTT and RTT
