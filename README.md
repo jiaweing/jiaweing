@@ -91,63 +91,33 @@ jay = jiaweing()
 
 </details>
 
-## Current Projects
+## Projects
 
-### AI & Memory
+* 🐉 **[Ryu](https://github.com/amajorai/ryu)** (45 stars) - open-source agentic infrastructure
+* 📥 **[DropDrawer](https://github.com/jiaweing/DropDrawer)** (207 stars) - dropdown on desktop, drawer on mobile, for shadcn/ui
+* 🪟 **[ui](https://github.com/jiaweing/ui)** - iOS 26 and macOS 26 inspired components on shadcn/ui
+* 🎙️ **[voiceprompt](https://github.com/jiaweing/voiceprompt)** - voice-activated teleprompter in the browser
+* 🚦 **[sg-theory-prep](https://github.com/jiaweing/sg-theory-prep)** - practice and cheatsheets for Singapore's BTT, FTT and RTT
+* 📱 **[duo-stock-watch](https://github.com/jiaweing/duo-stock-watch)** - which Apple Stores have an iPhone Duo in stock right now
+* 🌐 **[layer0](https://github.com/amajorai/layer0)** - self-hosted AI memory and RAG layer
+* 🎭 **[backstage](https://github.com/amajorai/backstage)** - open-source YouTube thumbnail studio
+* ⛩️ **[torii](https://github.com/amajorai/torii)** - Tauri v2 + React 19 desktop app shell
+* ⚡ **[skills](https://github.com/amajorai/amajor.md)** - agent skills for shipping: [spec](https://github.com/amajorai/spec.md) · [ship](https://github.com/amajorai/ship.md) · [vibe](https://github.com/amajorai/vibe.md) · [party](https://github.com/amajorai/party.md) · [replay](https://github.com/amajorai/replay.md) · [fix](https://github.com/amajorai/fix.md) · [sandbox](https://github.com/amajorai/sandbox.md) · [context](https://github.com/amajorai/context.md) · [more](https://github.com/amajorai/skills)
+* 📂 **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** - my site, jiaweing.com
+* 🧩 **browser tools** - [QR reader](https://github.com/jiaweing/altq-qr-reader-extension) · [Unsplash multiple download](https://github.com/jiaweing/Unsplash-Multiple-Download) · [centered Google search](https://github.com/jiaweing/center-google-search) · [YouTube playlist delete](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)
 
-* 🌐 **[layer0](https://github.com/amajorai/layer0)** - self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
+<details>
+<summary>Earlier work</summary>
 
-### Desktop
+* 🌎 **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** - travel guides from Lemon8 posts
+* 🏨 **[agoda-agent](https://github.com/jiaweing/agoda-agent)** - accommodation guides from Agoda listings
+* 🌙 **[updatenight-agent](https://github.com/jiaweing/updatenight-agent)** - Update Night newsletter with crewAI
+* 🤖 **[GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot)** - Gemini chat and image bot for Telegram
+* 🛩️ **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** - HTTP API for GitHub Copilot
+* 🔐 **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - .NET 8 API with JWT auth and MySQL
+* ✅ **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain product authenticity checks
 
-* 🎭 **[backstage](https://github.com/amajorai/backstage)** - open-source YouTube thumbnail studio with AI background removal and Gemini image generation
-* ⛩️ **[torii](https://github.com/amajorai/torii)** - production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
-
-### Skills
-
-* 🌼 **[amajor.md](https://github.com/amajorai/amajor.md)** - master skill directory. one install, discover every A Major skill. built for agents to find the right tool for any task.
-* 👻 **[spec.md](https://github.com/amajorai/spec.md)** - spec-driven development. break any task into atomic, agent-ready github issues. the first step before shipping.
-* 📦 **[ship.md](https://github.com/amajorai/ship.md)** - a thin, structured workflow for shipping features. simple, minimal, lean. one interview, one plan, ship the thing.
-* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - spin up a 24/7 production-ready full-stack dev and deploy environment. one interview, one clean pass.
-* 🎉 **[party.md](https://github.com/amajorai/party.md)** - GitHub Projects as the interface. drop in issues, it ships them while you sleep.
-* 🎬 **[replay.md](https://github.com/amajorai/replay.md)** - record a live video of your running app and share the link, straight from chat.
-* 🔎 **[fix.md](https://github.com/amajorai/fix.md)** - systematic bug-fixing. explore first, instrument strategically, read the logs, fix surgically, verify clean.
-* 🧪 **[sandbox.md](https://github.com/amajorai/sandbox.md)** - self-hosted cloud sandbox environment. choose daytona, docker+bun, or firecracker. spawn isolated exec sandboxes or long-lived dev workspaces from chat.
-* 📋 **[context.md](https://github.com/amajorai/context.md)** - write and maintain claude.md and agents.md for any workspace. explores the codebase, interviews for gaps, gives every agent full orientation in one read.
-* ⚡ **[skills](https://github.com/amajorai/skills)** - 30+ smaller skills for the things developers overlook when shipping. edge cases, E2E, auth, payments, SEO, CI, and more.
-
-### Web & UI
-
-* 📥 **[dropdrawer](https://github.com/jiaweing/DropDrawer)** (201 stars) - responsive shadcn/ui dropdown-to-drawer component
-* 📂 **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** (5 stars) - personal portfolio site
-* 🪟 **[ui](https://github.com/jiaweing/ui)** - beautifully designed components inspired by iOS 26 and macOS 26, built on shadcn/ui
-
-### Browser Extensions & Tools
-
-* 🔲 **[altq-qr-reader-extension](https://github.com/jiaweing/altq-qr-reader-extension)** (7 stars) - offline browser extension for reading QR codes directly from web pages
-* 🖼️ **[Unsplash-Multiple-Download](https://github.com/jiaweing/Unsplash-Multiple-Download)** (12 stars) - instantly download all images on a page on Unsplash
-* 🗑️ **[YouTube-Playlist-Delete-Video](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)** - Stylus style that restores double-click to remove videos from YouTube playlists
-* 🔍 **[center-google-search](https://github.com/jiaweing/center-google-search)** - Stylus style for centered Google search results
-
-## Legacy Work
-
-### AI & Agents
-
-* 🌎 **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** (7 stars) - multi-agent system that scrapes Lemon8 and generates comprehensive travel guides
-* 🤖 **[GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot)** (5 stars) - Telegram bot powered by Gemini 2.0 Flash for natural conversations and AI image generation
-* 🛩️ **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** (6 stars) - OpenAI-compatible HTTP API interface for GitHub Copilot with native GitHub authentication
-* 🌙 **[updatenight-agent](https://github.com/jiaweing/updatenight-agent)** - automated Update Night newsletter generation using crewAI agents
-* 🏨 **[agoda-agent](https://github.com/jiaweing/agoda-agent)** - multi-agent system that analyzes Agoda hotel listings and generates accommodation guides
-* 🔍 **[localRAG-api](https://github.com/jiaweing/localRAG-api)** (3 stars) - local RAG API, superseded by layer0
-* 🤖 **[localLLM-api](https://github.com/jiaweing/localLLM-api)** - local LLM API, superseded by layer0
-### APIs & Boilerplates
-
-* 🔐 **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - barebones .NET 8 API with JWT auth and MySQL, zero abstractions, full control
-* ✅ **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain-based verification system for product authenticity and ownership tracking
-
-### Web & Projects
-
-* 🏢 **[base7-landing](https://github.com/jiaweing/base7-landing)** - landing page for Base7
-* ✏️ **[telequill](https://github.com/jiaweing/telequill)** - transform public Telegram channels into elegant blog-style websites
+</details>
 
 ## Skills & Technologies
 
@@ -156,9 +126,3 @@ jay = jiaweing()
 ## Connect
 
 [![X](https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x)](https://x.com/jiaweihq) [![LinkedIn](https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin)](https://linkedin.com/in/jiaweing) [![Instagram](https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram)](https://instagram.com/jiaweihq) [![Threads](https://shieldcn.dev/badge/Threads-jiaweihq-black.png?logo=threads)](https://threads.net/@jiaweihq) [![TikTok](https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok)](https://tiktok.com/@jiaweihq) [![YouTube Subscribers](https://shieldcn.dev/youtube/subscribers/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=branded)](https://youtube.com/@jiaweihq) [![YouTube Channel Views](https://shieldcn.dev/youtube/channel-views/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=secondary)](https://youtube.com/@jiaweihq) [![Twitch](https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch)](https://twitch.tv/jiaweihq) [![Kick](https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick)](https://kick.com/jiaweing)
-
-## 🌙 Update Night
-
-An AI-native media platform and catalog for builders. Newsletter, Telegram, Discord, podcast, and a curated catalog of AI and dev tools — covering what's shipping in the AI and developer ecosystem before it hits the headlines.
-
-[![Update Night](https://shieldcn.dev/badge/Update%20Night-subscribe-orange.png?variant=secondary&logo=substack)](https://updatenight.com) [![Podcast](https://shieldcn.dev/badge/Podcast-listen-1DB954.png?logo=spotify)](https://open.spotify.com/show/4ynkzghYMkJDlw9lMxEdfy)
