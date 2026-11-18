@@ -11,61 +11,124 @@
 </pre>
 </div>
 
-
 <div align="center">
 
-software engineer, designer and founder in Singapore. building [Ryu](https://ryuhq.com) at [A Major](https://amajor.ai).
-
-[![Website](https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome)](https://jiaweing.com) [![Email](https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail)](mailto:hey@jiaweing.com) [![X](https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x)](https://x.com/jiaweihq) [![LinkedIn](https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin)](https://linkedin.com/in/jiaweing)
-
+[![Website](https://shieldcn.dev/badge/website-jiaweing.com-black.png?logo=googlechrome)](https://jiaweing.com) [![Email](https://shieldcn.dev/badge/email-hey@jiaweing.com-blue.png?logo=gmail)](mailto:hey@jiaweing.com) [![GitHub Followers](https://shieldcn.dev/github/followers/jiaweing.png?logo=github)](https://github.com/jiaweing) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/jiaweing.svg?variant=secondary&size=sm)](https://github.com/jiaweing?tab=repositories) ![Made in Singapore](https://shieldcn.dev/badge/made%20in-Singapore-red.png)
 </div>
+
+<details>
+<summary>Source Code</summary>
+
+```python
+from typing import List, Dict, Tuple
+
+
+class jiaweing:
+    """
+    software engineer · designer · founder
+    creating unique and original digital experiences
+    """
+
+    def __init__(self):
+        self.name      = "Jia Wei Ng"
+        self.alias     = "Jay"
+        self.age       = 26
+        self.location  = "Singapore"
+        self.website   = "https://jiaweing.com"
+        self.education = "BSc Computing Science · SIT + University of Glasgow"
+        self.stack     = ["TypeScript", "Rust", "Python", ".NET", "Next.js", "Tauri", "React Native", "Postgres", "SQLite"]
+
+    @property
+    def bio(self) -> str:
+        return (
+            "just an ordinary guy building software.\n"
+            "a designer and software engineer crafting unique, and original digital experiences.\n"
+            "drawn to psychology, space, quantum mechanics, and the strange phenomena that shape the universe."
+        )
+
+    @property
+    def achievements(self) -> List[str]:
+        return [
+            "Google APAC Solution Challenge 2025 — Top 10",
+            "Dell InnovateFest 2025 — Finalist",
+            "Dell Cloud Native Awards — 1st Place (x2)",
+            "built titan.tf at 15 — 460k+ players, 20k+ Steam members",
+            "founded 18 startups, shipped 17 apps",
+            "top 25% Unsplash contributor — 460k+ views, 4.3k+ downloads",
+            "87+ blog posts published",
+        ]
+
+    @property
+    def setup(self) -> Dict[str, object]:
+        return {
+            "workstation": {
+                "processor": "i7-14700KF",
+                "gpu"      : "RTX 4070 Ti SUPER",
+                "ram"      : "32GB DDR5",
+            },
+            "laptop"     : "MacBook Air M2 Midnight",
+            "peripherals": [
+                "Yunzii AL75 Keyboard",
+                "AULA F75 Pro",
+                "Shure SM7B + Focusrite Scarlett 2i2",
+                "Fujifilm X-T50 + Sigma 18-50mm f2.8",
+            ],
+        }
+
+    @property
+    def contact(self) -> Tuple[str, str, str, str, str]:
+        github   = "github.com/jiaweing"
+        linkedin = "linkedin.com/in/jiaweing"
+        twitter  = "x.com/jiaweihq"
+        youtube  = "youtube.com/@jiaweihq"
+        email    = "hey@jiaweing.com"
+
+        return github, linkedin, twitter, youtube, email
+
+
+jay = jiaweing()
+```
+
+</details>
 
 ## Projects
 
-| Project | What it is |
-| --- | --- |
-| **[Ryu](https://github.com/amajorai/ryu)** | open-source agentic infrastructure. bring Claude Code, Codex or your own agent, add tools with plugins, and turn agents into apps. [ryuhq.com](https://ryuhq.com) |
-| **[DropDrawer](https://github.com/jiaweing/DropDrawer)** | shadcn/ui dropdown menu that becomes a drawer on mobile. <a href="https://github.com/jiaweing/DropDrawer/stargazers"><img src="https://www.shieldcn.dev/github/stars/jiaweing/DropDrawer.svg?variant=secondary&size=sm" alt="Stars" align="absmiddle"></a> |
-| **[ui](https://github.com/jiaweing/ui)** | components inspired by iOS 26 and macOS 26, built on shadcn/ui. work in progress |
-| **[voiceprompt](https://github.com/jiaweing/voiceprompt)** | Yomi, a voice-activated teleprompter in the browser. it follows your script as you speak, with Whisper running on your device |
-| **[sg&#8209;theory&#8209;prep](https://github.com/jiaweing/sg-theory-prep)** | study app for Singapore's BTT, FTT and RTT. every official practice question, cheatsheets and mock tests in one page. [live app](https://claude.ai/artifact/UgQ2WVaFQFtoM6t6YZRKEa) |
-| **[duo&#8209;stock&#8209;watch](https://github.com/jiaweing/duo-stock-watch)** | local page that shows which Apple Stores have an iPhone Duo for pickup right now |
-| **[layer0](https://github.com/amajorai/layer0)** | self-hosted AI memory and RAG layer in Rust, with local LLM support, a knowledge graph and hybrid search |
-| **[backstage](https://github.com/amajorai/backstage)** | open-source YouTube thumbnail studio with local background removal and Gemini image generation |
-| **[torii](https://github.com/amajorai/torii)** | Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates and secure storage |
-| **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** | my site, [jiaweing.com](https://jiaweing.com) |
-
-**Agent skills:** start at [amajor.md](https://github.com/amajorai/amajor.md), the directory for all of them: [spec](https://github.com/amajorai/spec.md) · [ship](https://github.com/amajorai/ship.md) · [vibe](https://github.com/amajorai/vibe.md) · [party](https://github.com/amajorai/party.md) · [replay](https://github.com/amajorai/replay.md) · [fix](https://github.com/amajorai/fix.md) · [sandbox](https://github.com/amajorai/sandbox.md) · [context](https://github.com/amajorai/context.md) · [30+ smaller skills](https://github.com/amajorai/skills)
-
-**Browser tools:** [altq QR reader](https://github.com/jiaweing/altq-qr-reader-extension) · [Unsplash multiple download](https://github.com/jiaweing/Unsplash-Multiple-Download) · [centered Google search](https://github.com/jiaweing/center-google-search) · [YouTube playlist delete](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)
+* **[Ryu](https://github.com/amajorai/ryu)** - open-source agentic infrastructure
+* **[DropDrawer](https://github.com/jiaweing/DropDrawer)** - dropdown on desktop, drawer on mobile, for shadcn/ui <a href="https://github.com/jiaweing/DropDrawer/stargazers"><img src="https://www.shieldcn.dev/github/stars/jiaweing/DropDrawer.svg?variant=secondary&size=sm" alt="Stars" align="absmiddle"></a>
+* **[ui](https://github.com/jiaweing/ui)** - iOS 26 and macOS 26 inspired components on shadcn/ui
+* **[voiceprompt](https://github.com/jiaweing/voiceprompt)** - voice-activated teleprompter in the browser
+* **[sg-theory-prep](https://github.com/jiaweing/sg-theory-prep)** - practice and cheatsheets for Singapore's BTT, FTT and RTT
+* **[duo-stock-watch](https://github.com/jiaweing/duo-stock-watch)** - which Apple Stores have an iPhone Duo in stock right now
+* **[layer0](https://github.com/amajorai/layer0)** - self-hosted AI memory and RAG layer
+* **[backstage](https://github.com/amajorai/backstage)** - open-source YouTube thumbnail studio
+* **[torii](https://github.com/amajorai/torii)** - Tauri v2 + React 19 desktop app shell
+* **[skills](https://github.com/amajorai/amajor.md)** - agent skills for shipping: [spec](https://github.com/amajorai/spec.md) · [ship](https://github.com/amajorai/ship.md) · [vibe](https://github.com/amajorai/vibe.md) · [party](https://github.com/amajorai/party.md) · [replay](https://github.com/amajorai/replay.md) · [fix](https://github.com/amajorai/fix.md) · [sandbox](https://github.com/amajorai/sandbox.md) · [context](https://github.com/amajorai/context.md) · [more](https://github.com/amajorai/skills)
+* **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** - my site, jiaweing.com
+* **browser tools** - [QR reader](https://github.com/jiaweing/altq-qr-reader-extension) · [Unsplash multiple download](https://github.com/jiaweing/Unsplash-Multiple-Download) · [centered Google search](https://github.com/jiaweing/center-google-search) · [YouTube playlist delete](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)
 
 <details>
 <summary>Earlier work</summary>
 
-* **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** - agents that read Lemon8 posts and write travel guides
-* **[agoda-agent](https://github.com/jiaweing/agoda-agent)** - agents that analyse Agoda hotel listings and write accommodation guides
-* **[updatenight-agent](https://github.com/jiaweing/updatenight-agent)** - Update Night newsletter generation with crewAI agents
-* **[GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot)** - Telegram bot on Gemini 2.0 Flash for chat and image generation
-* **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** - HTTP API for GitHub Copilot with native GitHub authentication
-* **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - barebones .NET 8 API with JWT auth and MySQL
-* **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain-based product authenticity and ownership verification
+* **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** - travel guides from Lemon8 posts
+* **[agoda-agent](https://github.com/jiaweing/agoda-agent)** - accommodation guides from Agoda listings
+* **[updatenight-agent](https://github.com/jiaweing/updatenight-agent)** - Update Night newsletter with crewAI
+* **[GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot)** - Gemini chat and image bot for Telegram
+* **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** - HTTP API for GitHub Copilot
+* **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - .NET 8 API with JWT auth and MySQL
+* **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain product authenticity checks
 
 </details>
 
-<details>
-<summary>Highlights</summary>
+## Skills & Technologies
 
-* Google APAC Solution Challenge 2025, Top 10
-* Dell InnovateFest 2025, Finalist
-* Dell Cloud Native Awards, 1st Place (x2)
-* built titan.tf at 15: 460k+ players, 20k+ Steam members
-* founded 18 startups, shipped 17 apps
-* top 25% Unsplash contributor: 460k+ views, 4.3k+ downloads
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm) ![Biome](https://www.shieldcn.dev/badge/-Biome-60A5FA.svg?logo=biome&variant=branded&size=sm) ![Husky](https://www.shieldcn.dev/badge/-Husky-3B82F6.svg?logo=husky&variant=branded&size=sm)
 
-</details>
+## Connect
 
-## Elsewhere
+[![X](https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x)](https://x.com/jiaweihq) [![LinkedIn](https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin)](https://linkedin.com/in/jiaweing) [![Instagram](https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram)](https://instagram.com/jiaweihq) [![Threads](https://shieldcn.dev/badge/Threads-jiaweihq-black.png?logo=threads)](https://threads.net/@jiaweihq) [![TikTok](https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok)](https://tiktok.com/@jiaweihq) [![YouTube Subscribers](https://shieldcn.dev/youtube/subscribers/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=branded)](https://youtube.com/@jiaweihq) [![YouTube Channel Views](https://shieldcn.dev/youtube/channel-views/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=secondary)](https://youtube.com/@jiaweihq) [![Twitch](https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch)](https://twitch.tv/jiaweihq) [![Kick](https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick)](https://kick.com/jiaweing)
 
-[YouTube](https://youtube.com/@jiaweihq) · [Instagram](https://instagram.com/jiaweihq) · [Threads](https://threads.net/@jiaweihq) · [TikTok](https://tiktok.com/@jiaweihq) · [Twitch](https://twitch.tv/jiaweihq) · [Kick](https://kick.com/jiaweing)
+## Update Night
 
-🌙 **[Update Night](https://updatenight.com)** - my newsletter, podcast and catalog of AI and dev tools for builders. [listen on Spotify](https://open.spotify.com/show/4ynkzghYMkJDlw9lMxEdfy)
+Newsletter, podcast and catalog of AI and dev tools for builders.
+
+[![Update Night](https://shieldcn.dev/badge/Update%20Night-subscribe-orange.png?variant=secondary&logo=substack)](https://updatenight.com) [![Podcast](https://shieldcn.dev/badge/Podcast-listen-1DB954.png?logo=spotify)](https://open.spotify.com/show/4ynkzghYMkJDlw9lMxEdfy)
