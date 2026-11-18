@@ -93,29 +93,29 @@ jay = jiaweing()
 
 ## Projects
 
-* **[Ryu](https://github.com/amajorai/ryu)** (45 stars) - open-source agentic infrastructure
-* **[DropDrawer](https://github.com/jiaweing/DropDrawer)** (207 stars) - dropdown on desktop, drawer on mobile, for shadcn/ui
-* **[ui](https://github.com/jiaweing/ui)** - iOS 26 and macOS 26 inspired components on shadcn/ui
-* **[voiceprompt](https://github.com/jiaweing/voiceprompt)** - voice-activated teleprompter in the browser
-* **[sg-theory-prep](https://github.com/jiaweing/sg-theory-prep)** - practice and cheatsheets for Singapore's BTT, FTT and RTT
-* **[duo-stock-watch](https://github.com/jiaweing/duo-stock-watch)** - which Apple Stores have an iPhone Duo in stock right now
-* **[layer0](https://github.com/amajorai/layer0)** - self-hosted AI memory and RAG layer
-* **[backstage](https://github.com/amajorai/backstage)** - open-source YouTube thumbnail studio
-* **[torii](https://github.com/amajorai/torii)** - Tauri v2 + React 19 desktop app shell
-* **[skills](https://github.com/amajorai/amajor.md)** - agent skills for shipping: [spec](https://github.com/amajorai/spec.md) · [ship](https://github.com/amajorai/ship.md) · [vibe](https://github.com/amajorai/vibe.md) · [party](https://github.com/amajorai/party.md) · [replay](https://github.com/amajorai/replay.md) · [fix](https://github.com/amajorai/fix.md) · [sandbox](https://github.com/amajorai/sandbox.md) · [context](https://github.com/amajorai/context.md) · [more](https://github.com/amajorai/skills)
-* **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** - my site, jiaweing.com
-* **browser tools** - [QR reader](https://github.com/jiaweing/altq-qr-reader-extension) · [Unsplash multiple download](https://github.com/jiaweing/Unsplash-Multiple-Download) · [centered Google search](https://github.com/jiaweing/center-google-search) · [YouTube playlist delete](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)
+* 🐉 **[Ryu](https://github.com/amajorai/ryu)** (45 stars) - open-source agentic infrastructure
+* 📥 **[DropDrawer](https://github.com/jiaweing/DropDrawer)** (207 stars) - dropdown on desktop, drawer on mobile, for shadcn/ui
+* 🪟 **[ui](https://github.com/jiaweing/ui)** - iOS 26 and macOS 26 inspired components on shadcn/ui
+* 🎙️ **[voiceprompt](https://github.com/jiaweing/voiceprompt)** - voice-activated teleprompter in the browser
+* 🚦 **[sg-theory-prep](https://github.com/jiaweing/sg-theory-prep)** - practice and cheatsheets for Singapore's BTT, FTT and RTT
+* 📱 **[duo-stock-watch](https://github.com/jiaweing/duo-stock-watch)** - which Apple Stores have an iPhone Duo in stock right now
+* 🌐 **[layer0](https://github.com/amajorai/layer0)** - self-hosted AI memory and RAG layer
+* 🎭 **[backstage](https://github.com/amajorai/backstage)** - open-source YouTube thumbnail studio
+* ⛩️ **[torii](https://github.com/amajorai/torii)** - Tauri v2 + React 19 desktop app shell
+* ⚡ **[skills](https://github.com/amajorai/amajor.md)** - agent skills for shipping: [spec](https://github.com/amajorai/spec.md) · [ship](https://github.com/amajorai/ship.md) · [vibe](https://github.com/amajorai/vibe.md) · [party](https://github.com/amajorai/party.md) · [replay](https://github.com/amajorai/replay.md) · [fix](https://github.com/amajorai/fix.md) · [sandbox](https://github.com/amajorai/sandbox.md) · [context](https://github.com/amajorai/context.md) · [more](https://github.com/amajorai/skills)
+* 📂 **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** - my site, jiaweing.com
+* 🧩 **browser tools** - [QR reader](https://github.com/jiaweing/altq-qr-reader-extension) · [Unsplash multiple download](https://github.com/jiaweing/Unsplash-Multiple-Download) · [centered Google search](https://github.com/jiaweing/center-google-search) · [YouTube playlist delete](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)
 
 <details>
 <summary>Earlier work</summary>
 
-* **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** - travel guides from Lemon8 posts
-* **[agoda-agent](https://github.com/jiaweing/agoda-agent)** - accommodation guides from Agoda listings
-* **[updatenight-agent](https://github.com/jiaweing/updatenight-agent)** - Update Night newsletter with crewAI
-* **[GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot)** - Gemini chat and image bot for Telegram
-* **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** - HTTP API for GitHub Copilot
-* **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - .NET 8 API with JWT auth and MySQL
-* **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain product authenticity checks
+* 🌎 **[lemon8-travel-research-agent](https://github.com/jiaweing/lemon8-travel-research-agent)** - travel guides from Lemon8 posts
+* 🏨 **[agoda-agent](https://github.com/jiaweing/agoda-agent)** - accommodation guides from Agoda listings
+* 🌙 **[updatenight-agent](https://github.com/jiaweing/updatenight-agent)** - Update Night newsletter with crewAI
+* 🤖 **[GeminiTelegramBot](https://github.com/jiaweing/GeminiTelegramBot)** - Gemini chat and image bot for Telegram
+* 🛩️ **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** - HTTP API for GitHub Copilot
+* 🔐 **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - .NET 8 API with JWT auth and MySQL
+* ✅ **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain product authenticity checks
 
 </details>
 
