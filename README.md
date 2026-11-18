@@ -102,9 +102,8 @@ jay = jiaweing()
 * 🌐 **[layer0](https://github.com/amajorai/layer0)** - self-hosted AI memory and RAG layer
 * 🎭 **[backstage](https://github.com/amajorai/backstage)** - open-source YouTube thumbnail studio
 * ⛩️ **[torii](https://github.com/amajorai/torii)** - Tauri v2 + React 19 desktop app shell
-* ⚡ **[skills](https://github.com/amajorai/amajor.md)** - agent skills for shipping: [spec](https://github.com/amajorai/spec.md) · [ship](https://github.com/amajorai/ship.md) · [vibe](https://github.com/amajorai/vibe.md) · [party](https://github.com/amajorai/party.md) · [replay](https://github.com/amajorai/replay.md) · [fix](https://github.com/amajorai/fix.md) · [sandbox](https://github.com/amajorai/sandbox.md) · [context](https://github.com/amajorai/context.md) · [more](https://github.com/amajorai/skills)
+* ⚡ **[skills](https://github.com/amajorai/skills)** - agent skills for shipping
 * 📂 **[portfolio-dex](https://github.com/jiaweing/portfolio-dex)** - my site, jiaweing.com
-* 🧩 **browser tools** - [QR reader](https://github.com/jiaweing/altq-qr-reader-extension) · [Unsplash multiple download](https://github.com/jiaweing/Unsplash-Multiple-Download) · [centered Google search](https://github.com/jiaweing/center-google-search) · [YouTube playlist delete](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)
 
 <details>
 <summary>Earlier work</summary>
@@ -116,6 +115,7 @@ jay = jiaweing()
 * 🛩️ **[copilot-chat-api](https://github.com/jiaweing/copilot-chat-api)** - HTTP API for GitHub Copilot
 * 🔐 **[dotnet8-jwt-api-boilerplate](https://github.com/jiaweing/dotnet8-jwt-api-boilerplate)** - .NET 8 API with JWT auth and MySQL
 * ✅ **[verify.supply.tf](https://github.com/jiaweing/verify.supply.tf)** - blockchain product authenticity checks
+* 🧩 **browser tools** - [QR reader](https://github.com/jiaweing/altq-qr-reader-extension) · [Unsplash multiple download](https://github.com/jiaweing/Unsplash-Multiple-Download) · [centered Google search](https://github.com/jiaweing/center-google-search) · [YouTube playlist delete](https://github.com/jiaweing/YouTube-Playlist-Delete-Video)
 
 </details>
 
