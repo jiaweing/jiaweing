@@ -25,11 +25,11 @@ software engineer, designer and founder in Singapore. building [Ryu](https://ryu
 | Project | What it is |
 | --- | --- |
 | **[Ryu](https://github.com/amajorai/ryu)** | open-source agentic infrastructure. bring Claude Code, Codex or your own agent, add tools with plugins, and turn agents into apps. [ryuhq.com](https://ryuhq.com) |
-| **[DropDrawer](https://github.com/jiaweing/DropDrawer)** | shadcn/ui dropdown menu that becomes a drawer on mobile. [![Stars](https://www.shieldcn.dev/github/stars/jiaweing/DropDrawer.svg?variant=secondary&size=sm)](https://github.com/jiaweing/DropDrawer/stargazers) |
+| **[DropDrawer](https://github.com/jiaweing/DropDrawer)** | shadcn/ui dropdown menu that becomes a drawer on mobile. <a href="https://github.com/jiaweing/DropDrawer/stargazers"><img src="https://www.shieldcn.dev/github/stars/jiaweing/DropDrawer.svg?variant=secondary&size=sm" alt="Stars" align="absmiddle"></a> |
 | **[ui](https://github.com/jiaweing/ui)** | components inspired by iOS 26 and macOS 26, built on shadcn/ui. work in progress |
 | **[voiceprompt](https://github.com/jiaweing/voiceprompt)** | Yomi, a voice-activated teleprompter in the browser. it follows your script as you speak, with Whisper running on your device |
-| **[sg-theory-prep](https://github.com/jiaweing/sg-theory-prep)** | study app for Singapore's BTT, FTT and RTT. every official practice question, cheatsheets and mock tests in one page. [live app](https://claude.ai/artifact/UgQ2WVaFQFtoM6t6YZRKEa) |
-| **[duo-stock-watch](https://github.com/jiaweing/duo-stock-watch)** | local page that shows which Apple Stores have an iPhone Duo for pickup right now |
+| **[sg&#8209;theory&#8209;prep](https://github.com/jiaweing/sg-theory-prep)** | study app for Singapore's BTT, FTT and RTT. every official practice question, cheatsheets and mock tests in one page. [live app](https://claude.ai/artifact/UgQ2WVaFQFtoM6t6YZRKEa) |
+| **[duo&#8209;stock&#8209;watch](https://github.com/jiaweing/duo-stock-watch)** | local page that shows which Apple Stores have an iPhone Duo for pickup right now |
 | **[layer0](https://github.com/amajorai/layer0)** | self-hosted AI memory and RAG layer in Rust, with local LLM support, a knowledge graph and hybrid search |
 | **[backstage](https://github.com/amajorai/backstage)** | open-source YouTube thumbnail studio with local background removal and Gemini image generation |
 | **[torii](https://github.com/amajorai/torii)** | Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates and secure storage |
