@@ -79,7 +79,7 @@ class jiaweing:
     def contact(self) -> Tuple[str, str, str, str, str]:
         github   = "github.com/jiaweing"
         linkedin = "linkedin.com/in/jiaweing"
-        twitter  = "x.com/jiaweihq"
+        twitter  = "x.com/jiaweing"
         youtube  = "youtube.com/@jiaweihq"
         email    = "hey@jiaweing.com"
 
@@ -125,4 +125,4 @@ jay = jiaweing()
 
 ## Connect
 
-[![X](https://shieldcn.dev/badge/X-jiaweihq-black.png?logo=x)](https://x.com/jiaweihq) [![LinkedIn](https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin)](https://linkedin.com/in/jiaweing) [![Instagram](https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram)](https://instagram.com/jiaweihq) [![Threads](https://shieldcn.dev/badge/Threads-jiaweihq-black.png?logo=threads)](https://threads.net/@jiaweihq) [![TikTok](https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok)](https://tiktok.com/@jiaweihq) [![YouTube Subscribers](https://shieldcn.dev/youtube/subscribers/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=branded)](https://youtube.com/@jiaweihq) [![YouTube Channel Views](https://shieldcn.dev/youtube/channel-views/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=secondary)](https://youtube.com/@jiaweihq) [![Twitch](https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch)](https://twitch.tv/jiaweihq) [![Kick](https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick)](https://kick.com/jiaweing)
+[![X](https://shieldcn.dev/badge/X-jiaweing-black.png?logo=x)](https://x.com/jiaweing) [![LinkedIn](https://shieldcn.dev/badge/LinkedIn-jiaweing-0A66C2.png?logo=linkedin)](https://linkedin.com/in/jiaweing) [![Instagram](https://shieldcn.dev/badge/Instagram-jiaweihq-E4405F.png?logo=instagram)](https://instagram.com/jiaweihq) [![Threads](https://shieldcn.dev/badge/Threads-jiaweihq-black.png?logo=threads)](https://threads.net/@jiaweihq) [![TikTok](https://shieldcn.dev/badge/TikTok-jiaweihq-black.png?logo=tiktok)](https://tiktok.com/@jiaweihq) [![YouTube Subscribers](https://shieldcn.dev/youtube/subscribers/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=branded)](https://youtube.com/@jiaweihq) [![YouTube Channel Views](https://shieldcn.dev/youtube/channel-views/UCOReq1qWCsrNRvlq8S1n57Q.svg?variant=secondary)](https://youtube.com/@jiaweihq) [![Twitch](https://shieldcn.dev/badge/Twitch-jiaweihq-9146FF.png?logo=twitch)](https://twitch.tv/jiaweihq) [![Kick](https://shieldcn.dev/badge/Kick-jiaweing-53FC18.png?logo=kick)](https://kick.com/jiaweing)
